@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    padding-top: 800px;
+    text-align: center;
+}
+
+.profile{
+    border-radius: 50%;
+}
+#Welcome{
+    position:absolute;
+    bottom: 0;
+    background: linear-gradient(#000080 0%,#008080 100%);
+  display: table;
+  width: 100%;
+  height: 100%;  
+}
+h1{
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+}
+#name{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    font-size: 30px;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#bio{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
